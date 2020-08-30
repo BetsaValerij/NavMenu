@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="drawer_open">Open Drawer</string>
+    <string name="drawer_close">Close Drawer</string>
+    <!--<string name="SERVER_URL">https://www.dropbox.com/s/fk3d5kg6cptkpr6/</string>-->
+
+    <string name="SERVER_URL">https://www.dropbox.com/s/fk3d5kg6cptkpr6/menu.json?dl=1</string>
+    <string name="error_network_connection">Error Internet connection</string>
+    <string name="error_load_image">Error load image</string>
+</resources>

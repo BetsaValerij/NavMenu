@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="navdrawer_image_height">192dp</dimen>
+    <dimen name="margin_user_layout">25dp</dimen>
+    <dimen name="margin_user_name">3dp</dimen>
+    <dimen name="margin_user_email">20dp</dimen>
+</resources>
